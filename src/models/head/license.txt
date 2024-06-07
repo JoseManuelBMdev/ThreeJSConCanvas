@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anime head
+* source:	https://sketchfab.com/3d-models/anime-head-fe08e8a406764f81863ba4bba629f608
+* author:	DaGreen (https://sketchfab.com/DuskFallSalival)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anime head" (https://sketchfab.com/3d-models/anime-head-fe08e8a406764f81863ba4bba629f608) by DaGreen (https://sketchfab.com/DuskFallSalival) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

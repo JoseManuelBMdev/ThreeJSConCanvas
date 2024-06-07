@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Set_up</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="./src/cuartoModelo.js" type="module"></script>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="segundoCanvas.html">Modelo_2</a>
+        <a href="tercerCanvas.html">Modelo_3</a>
+        <a href="cuartoModelo.html">Modelo_4</a>
+        <a href="canvasExpansive.html">ModelExp</a>
+    </nav>
+    <div class="frame">
+        <div id="editor">
+            <h1>Realización de una página web sencilla implementando three.js "ADVERTENCIA"</h1>
+            <br>
+            <p>
+                Modelo fbx con 22MB, transformado a gltf 10mb, tiempo de recarga 384ms, texturización con substance painter.
+
+                Modelo sin licuar, no chocan texturas, metodo de texturización, en partes, sin mapa de UVs .You almost always want to use the width of the element divided by the height, or you'll get the same result as when you play old movies on a widescreen TV - the image looks squished.
+
+                The next two attributes are the near and far clipping plane. What that means, is that objects further away from the camera than the value of far or closer than near won't be rendered. You don't have to worry about this now, but you may want to use other values in your apps to get better performance.
+
+                Next up is the renderer. In addition to creating the renderer instance, we also need to set the size at which we want it to render our app. It's a good idea to use the width and height of the area we want to fill with our app - in this case, the width and height of the browser window. For performance intensive apps, you can also give setSize smaller values, like window.innerWidth/2 and window.innerHeight/2, which will make the app render at quarter size.
+
+                If you wish to keep the size of your app but render it at a lower resolution, you can do so by calling setSize with false as updateStyle (the third argument). For example, setSize(window.innerWidth/2, window.innerHeight/2, false) will render your app at half resolution, given that your canvas has 100% width and height.
+
+                Last but not least, we add the renderer element to our HTML document. This is a element the renderer uses to display the scene to us.
+
+                "That's all good, but where's that cube you promised?" Let's add it now.
+            </p>
+        </div>
+        <div>
+            <canvas></canvas>
+        </div>
+    </div>
+    
+</body>
+</html>

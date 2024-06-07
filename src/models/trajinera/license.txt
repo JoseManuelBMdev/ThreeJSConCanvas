@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trajinera_TurismoCórdoba
+* source:	https://sketchfab.com/3d-models/trajinera-turismocordoba-4b201bde5696446da49caedfa888edd0
+* author:	JosemanuelBM (https://sketchfab.com/JosemanuelBM)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trajinera_TurismoCórdoba" (https://sketchfab.com/3d-models/trajinera-turismocordoba-4b201bde5696446da49caedfa888edd0) by JosemanuelBM (https://sketchfab.com/JosemanuelBM) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

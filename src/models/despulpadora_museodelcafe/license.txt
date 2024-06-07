@@ -1,0 +1,11 @@
+Model Information:
+* title:	Despulpadora_MuseoDelCafe
+* source:	https://sketchfab.com/3d-models/despulpadora-museodelcafe-e48db2d3d3c44549a3575b082ed57116
+* author:	JosemanuelBM (https://sketchfab.com/JosemanuelBM)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Despulpadora_MuseoDelCafe" (https://sketchfab.com/3d-models/despulpadora-museodelcafe-e48db2d3d3c44549a3575b082ed57116) by JosemanuelBM (https://sketchfab.com/JosemanuelBM) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
